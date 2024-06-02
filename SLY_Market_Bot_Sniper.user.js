@@ -22,7 +22,8 @@
                      'ADGKK4Ccmrb9JYocUNUXCHbnWhhuvZAB21YYVBKXP78h',
                      '3smaMQSxA3DYXSgVcWYnveiXEo7B9BQ9bgnjQfJMu88u',
                      '4NGqeSxu8aE4GRaiEUoVzq7mKP5C4Pxo5GLGjqMSnxaA',
-                     'BESTa8udW1ZLUV6b66uJJVyqmhKy7t8hud67ymVYfkKf'
+                     'BESTa8udW1ZLUV6b66uJJVyqmhKy7t8hud67ymVYfkKf',
+                     'BdVsZKGrnrat3ghmrjwbFbpAd3geqCm8LEXQxUUZm8xg'
                     ];
 
     let observer = new MutationObserver(waitForLabs);
